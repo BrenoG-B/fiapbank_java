@@ -1,4 +1,4 @@
-# FIAP BANK - ATM (Versão Alpha)
+# FIAP BANK - ATM
 
 ## 📌 Descrição
 
@@ -39,7 +39,7 @@ A aplicação permite que o usuário cadastre uma senha e utilize funcionalidade
 
 ##  Autor
 
-**Breno GonçalvesBRAO**
+**Breno Gonçalves Báo**
 RM564037
 
 ---
